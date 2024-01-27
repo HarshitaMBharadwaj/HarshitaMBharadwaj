@@ -1,6 +1,6 @@
 <h1>
   <strong>Hi, I'm </strong>
-  <span id="name">
+  <span id="Harshita">
     <span>H</span><span>a</span><span>r</span><span>s</span><span>h</span><span>i</span><span>t</span><span>a</span>
   </span>
   <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px">
