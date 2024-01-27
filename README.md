@@ -1,4 +1,4 @@
-<h1>
+<h1>  
   <strong>Hi, I'm Harshita</strong>
   <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px">
 </h1>
@@ -10,15 +10,8 @@
     <img src="https://img.shields.io/badge/-bharadwajharshita2000.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharadwajharshita2000@gmail.com" alt="Gmail Badge" style="max-width: 100%;">
   </a>
 </p>
-
-
-- 👋 Hi, I’m @HarshitaMBharadwaj
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me bharadwajharshita2000@gmail.com
-
-<!---
-HarshitaMBharadwaj/HarshitaMBharadwaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p dir="auto">
+    <a href="https://github.com/CodingAce123">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;color=016EEA&amp;size=60&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=Hello+I'm+Aaryan;I+am+a+Data+Analyst;Feel+Free+to+Get+in+Touch;Nice+to+Meet+You+%F0%9F%98%84" alt="Typing SVG" style="max-width: 100%;">
+    </a>
+</p>
