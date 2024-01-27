@@ -18,8 +18,11 @@
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Analytics</em> student at <strong>George Washington University</strong>.</li>
 <li>☁  Worked as a <em>Data Analyst intern</em> at <strong>Manopal Hospitals</strong></li>
-<li>🎨 My favourite thing to do is paint
+<li>👀 I’m interested in Machine Learning, Data Analytics and Data Visualization</li>
+<li>🌱: I’m currently learning ML and working on ML prokects 💻🤖</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
+<li>⚡ Fun fact: I love painting 🎨</li>
+
 </ul>
 <hr>
 
