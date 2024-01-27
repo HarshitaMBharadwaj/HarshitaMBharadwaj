@@ -1,17 +1,4 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Harshita</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div class="container">
-    <h1 id="name">Your Name</h1>
-  </div>
-  <script src="script.js"></script>
-</body>
-</html>
+<h1><strong>Hi, I'm Shreyas Sunku Padmanabha</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px"></h1>
 - 👋 Hi, I’m @HarshitaMBharadwaj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
