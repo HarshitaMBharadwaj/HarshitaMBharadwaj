@@ -17,10 +17,10 @@
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Analytics</em> student at <strong>George Washington University</strong>.</li>
-<li>☁  Worked as a <em>Data Analyst intern</em> at <strong>Manopal Hospitals</strong></li>
+<li>☁  Worked as a <em>Data Analyst intern</em> at <strong>Manipal Hospitals</strong></li>
 <li>👀 I’m interested in Machine Learning, Data Analytics and Data Visualization</li>
-<li>🌱: I’m currently learning ML and working on ML prokects 💻🤖</li>
-<li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
+<li>🌱 I’m currently exploring ML, diving into hands-on projects.💻🤖</li>
+<li>👨‍🎓 Embrace the journey, cherish the moments, never stop learning and chasing your dreams 😌🏃🔮</li>
 <li>⚡ Fun fact: I love painting 🎨</li>
 
 </ul>
