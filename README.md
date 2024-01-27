@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-bharadwajharshita2000.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharadwajharshita2000@gmail.com" alt="Gmail Badge" style="max-width: 100%;">
   </a>
 </p>
-</p>
+<p>
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 100"
         style="background-color: transparent;" width="900px" height="100px">
 
@@ -73,3 +73,4 @@
             </textPath>
         </text>
     </svg>
+</p>
