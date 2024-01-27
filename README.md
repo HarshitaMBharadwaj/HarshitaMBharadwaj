@@ -12,7 +12,7 @@
 </p>   
 <p dir="auto">
     <a href="https://github.com/CodingAce123">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;color=000000&amp;size=60&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=Hello+I'm+Harshita+%F0%9F%91%8B;I+am+a+Data+Analyst;Feel+Free+to+Get+in+Touch;Nice+to+Meet+You+ +%F0%9F%98%84" alt="Typing SVG" style="max-width: 100%;">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;color=016EEA&amp;size=60&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=100&amp;lines=Hello+I'm+Harshita+%F0%9F%91%8B;I+am+a+Data+Analyst;Feel+Free+to+Get+in+Touch;Nice+to+Meet+You+ +%F0%9F%98%84" alt="Typing SVG" style="max-width: 100%;">
     </a>
 </p>
 
