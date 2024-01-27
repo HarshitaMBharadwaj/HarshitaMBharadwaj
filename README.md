@@ -1,4 +1,4 @@
-<h1><strong>Hi, I'm Shreyas Sunku Padmanabha</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px"></h1>
+<h1><strong>Hi, I'm Harshita</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="25px" width="25px"></h1>
 - 👋 Hi, I’m @HarshitaMBharadwaj
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
