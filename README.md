@@ -11,7 +11,7 @@
   </a>
 </p>
 <p>
-    
+    <path>
             <!-- Single line -->
             <animate id="d0" attributeName="d" begin="0s;d3.end" dur="5000ms" fill="remove"
                 values="m0,50 h0 ; m0,50 h900 ; m0,50 h900 ; m0,50 h0" keyTimes="0;0.8;0.8;1" />
