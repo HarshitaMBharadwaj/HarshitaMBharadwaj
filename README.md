@@ -20,7 +20,7 @@
 <li>☁  Worked as a <em>Data Analyst intern</em> at <strong>Manipal Hospitals</strong></li>
 <li>👀 I’m interested in Machine Learning, Data Analytics and Data Visualization</li>
 <li>🌱 I’m currently exploring ML, diving into hands-on projects.💻🤖</li>
-<li>👨‍🎓 Embrace the journey, cherish the moments, never stop learning and chasing your dreams 😌🏃🔮</li>
+<li>🔮 Embrace the journey, cherish the moments, never stop learning and chasing your dreams </li>
 <li>⚡ Fun fact: I love painting 🎨</li>
 
 </ul>
