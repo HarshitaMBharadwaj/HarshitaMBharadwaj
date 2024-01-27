@@ -21,7 +21,6 @@
 <li>👀 I’m interested in Machine Learning, Data Analytics and Data Visualization</li>
 <li>🌱 I’m currently exploring ML, diving into hands-on projects.💻🤖</li>
 <li>🔮 Embrace the journey, cherish the moments, never stop learning and chasing your dreams </li>
-<li>⚡ Fun fact: I love painting 🎨</li>
 
 </ul>
 <hr>
@@ -39,7 +38,15 @@
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
    
-   
+  <h3>When I'm not immersed in data analysis 😉</h3>
+<ul>
+    <li>⚡ I love to paint 🎨</li>
+    <li>Watch a movie  🤓</li>
+    <li>Cook an amazing dish 👨‍🍳😋</li>
+    <li> Spotify 🎧</li>    
+</ul>
+<hr>
+ 
     
 
 <p dir="auto">
