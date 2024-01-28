@@ -47,7 +47,9 @@
 </ul>
 <hr>
  
-    
+<h3>How to reach me</h3>
+<div>
+ 
 
 <p dir="auto">
    <a href="https://www.linkedin.com/in/harshmb/" rel="nofollow">
