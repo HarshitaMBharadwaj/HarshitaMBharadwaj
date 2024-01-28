@@ -59,5 +59,3 @@
     <img src="https://img.shields.io/badge/-bharadwajharshita2000.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bharadwajharshita2000@gmail.com" alt="Gmail Badge" style="max-width: 100%;">
   </a>
 
-[https://raw.githubusercontent.com/HarshitaMBharadwaj/github-stats/master/generated/overview.svg#gh-dark-mode-only](https://raw.githubusercontent.com/HarshitaMBharadwaj/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-[https://raw.githubusercontent.com/HarshitaMBharadwaj/github-stats/master/generated/overview.svg#gh-light-mode-only](https://raw.githubusercontent.com/HarshitaMBharadwaj/github-stats/master/generated/overview.svg#gh-light-mode-only)
