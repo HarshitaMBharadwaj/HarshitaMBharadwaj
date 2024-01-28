@@ -18,7 +18,7 @@
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Analytics</em> student at <strong>George Washington University</strong>.</li>
 <li>☁  Worked as a <em>Data Analyst intern</em> at <strong>Manipal Hospitals</strong></li>
-<li>👀 I’m interested in Machine Learning, Data Analytics and Data Visualization</li>
+<li>👀 I’m interested in Machine Learning, Data Analytics and Data Visualization 📊</li>
 <li>🌱 I’m currently exploring ML, diving into hands-on projects.💻🤖</li>
 <li>🔮 Embrace the journey, cherish the moments, never stop learning and chasing your dreams </li>
 
@@ -41,7 +41,7 @@
   <h3>When I'm not immersed in data analysis 😉</h3>
 <ul>
     <li>⚡ I love to paint 🎨</li>
-    <li>Watch a movie  🤓</li>
+    <li>🎥 Watch a movie 📺 </li>
     <li>Cook an amazing dish 👨‍🍳😋</li>
     <li> Spotify 🎧</li>    
 </ul>
