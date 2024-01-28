@@ -13,7 +13,7 @@
 <h3 align="center"><em>Data lets me play detective in a world of numbers and uncovering hidden stories</em></h3>
 <p> At the intersection of Creativity and Analysis lies my playground. As a Data Analytics graduate at George Washington University, I'm fueled by the thrill of deciphering data, crafting creative visual narratives, and conquering problems  </p>
 <hr>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNjNW45eTF3ZHZjazRmMHV0M3J3NjcweXk1bDkyNnA5NmpkZXg1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/42wQXwITfQbDGKqUP7/giphy.gif" height="150px" width="150px">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNjNW45eTF3ZHZjazRmMHV0M3J3NjcweXk1bDkyNnA5NmpkZXg1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/42wQXwITfQbDGKqUP7/giphy.gif" height="180px" width="180px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
 <li>👨‍💻 I'm currently a <em>Data Analytics</em> student at <strong>George Washington University</strong>.</li>
